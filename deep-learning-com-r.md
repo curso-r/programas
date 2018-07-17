@@ -5,21 +5,21 @@ Neste workshop vamos discutir:
 
 * o que são redes neurais profundas e como elas funcionam,
 * quais são os softwares utilizados para _treinar_ esses modelos e como eles se relacionam
-* treinar modelos de deep learning para alguns problemas de predição
+* como treinar modelos de deep learning para alguns problemas de predição
 
-O objetivo geral é se familiarizar com as principais técnicas utilizadas em Deep Learning e conhecer o suficiente para poder se aprofundar no assunto posteriormente. No final do curso o aluno poderá aplicar seus conhecimentos em problemas simples de classificação de textos, imagens e outros problemas de objetivo preditivo.
-
-## Infos Rápidas
-
-- **Carga horária:** 4h
-- **Material:** Computador com R e RStudio instalados, acesso a internet
-- **Pré-Requisitos:**  
-  * Conhecimento intermediário de estatística: *Regressão Logística* e princípio da máxima verossimilhança.
-  * Conhecimento intermediário de R: Saber ajustar um modelo de regressão logística no R.
+O objetivo geral é se familiarizar com as principais técnicas utilizadas em Deep Learning e conhecer o suficiente para poder se aprofundar no assunto posteriormente. No final do curso, o aluno poderá aplicar seus conhecimentos em problemas simples de classificação de textos, imagens e outros problemas de objetivo preditivo.
 
 ## Público Alvo
 
-Pesquisadores e profissionais em geral que estejam interessados em entender os principais conceitos de redes neurais e aplicá-los na prática usando R. 
+Pesquisadores e profissionais que estejam interessados em entender os principais conceitos de redes neurais e aplicá-los usando R. 
+
+## Duração e requisitos
+
+- **Carga horária:** 4 horas
+- **Material:** computador com R e RStudio instalados e acesso à internet.
+- **Pré-Requisitos:**  
+  * conhecimento intermediário de Estatística: *regressão logística* e princípio da máxima verossimilhança.
+  * conhecimento intermediário de R: saber ajustar um modelo de regressão logística no R.
 
 ## Programa
 
@@ -27,8 +27,8 @@ Pesquisadores e profissionais em geral que estejam interessados em entender os p
 - O que é Deep Learning?
 - Os softwares utilizados
 - Multi-Layer Perceptron
-- CNN (Redes Neurais Convolucionais)
-- RNN (Redes Neurais Recorrentes)
+- Redes Neurais Convolucionais (CNN)
+- Redes Neurais Recorrentes (RNN)
 - Séries temporais usando Deep Learning
 - Outros exemplos. 
 - Onde estudar mais?
