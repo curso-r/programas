@@ -28,7 +28,11 @@ Pesquisadores e profissionais em geral que estejam interessados em entender os p
 - Os softwares utilizados
 - Multi-Layer Perceptron
 - CNN (Redes Neurais Convolucionais)
+  - Exemplo de aplicação em imagens
+- Embeddings
+  - Exemplo de aplicação em textos
 - RNN (Redes Neurais Recorrentes)
+  - Exemplo de aplicação em textos
 - Séries temporais usando Deep Learning
 - Outros exemplos. 
 - Onde estudar mais?
